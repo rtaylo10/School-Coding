@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_content_add.png",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\exploded-aar\\com.lyft\\scissors\\1.0.1\\res\\drawable-xxxhdpi\\ic_content_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_exchange.png",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exchange.png"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\cards.png",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable-xxxhdpi\\cards.png"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_content_content_cut.png",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\exploded-aar\\com.lyft\\scissors\\1.0.1\\res\\drawable-xxxhdpi\\ic_content_content_cut.png"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_user.png",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_user.png"
+    }
+]

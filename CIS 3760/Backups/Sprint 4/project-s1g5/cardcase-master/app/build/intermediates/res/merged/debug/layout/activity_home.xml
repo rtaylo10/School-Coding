@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <android.support.design.widget.CoordinatorLayout
+      android:id="@+id/background"
+      style="@style/layout"
+      tools:context=".presentation.home.HomeActivity">
+
+    <android.support.design.widget.AppBarLayout style="@style/app_bar">
+
+      <include layout="@layout/toolbar_inner" />
+
+      <include
+          layout="@layout/toolbar_search"
+          android:visibility="gone" />
+
+      <Spinner
+          android:id="@+id/SortMenu"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginLeft="50dp"
+          android:layout_marginRight="8dp"
+          android:popupBackground="#506068"
+          android:textColor="@color/text_alt" />
+
+      <ToggleButton
+          android:id="@+id/sortDirection"
+          style="@style/toggleButton"
+          android:layout_width="40dp"
+          android:layout_height="31dp"
+          android:layout_marginLeft="9dp"
+          android:layout_marginTop="-26dp"
+          android:background="@drawable/ic_tog_bg" />
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:id="@+id/home_empty"
+        style="@style/layout_inner"
+        android:layout_marginTop="85dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone"
+        tools:visibility="visible">
+
+      <ImageView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginBottom="@dimen/margin_default"
+          android:contentDescription="@null"
+          android:src="@drawable/cards" />
+
+      <TextView
+          style="@style/text_block"
+          android:layout_margin="@dimen/margin_default"
+          android:paddingBottom="@dimen/margin_triple"
+          android:text="@string/home_empty_text"
+          android:textSize="@dimen/text_title" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/home_search_empty"
+        style="@style/layout_inner"
+        android:layout_marginTop="85dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:weightSum="1">
+
+      <TextView
+          style="@style/text_block"
+          android:layout_margin="@dimen/margin_default"
+          android:text="@string/home_search_empty_text" />
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/home_cards"
+        style="@style/layout_inner"
+        android:layout_height="552dp"
+        android:layout_marginBottom="@dimen/nav_bar_subtraction"
+        android:layout_marginTop="90dp"
+        android:clipToPadding="false"
+        android:paddingBottom="88dp"
+        android:paddingTop="3dp"
+        android:visibility="gone"
+        tools:visibility="visible" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/home_exchange"
+        style="@style/fabb"
+        android:scaleType="center"
+        android:src="@drawable/ic_exchange" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/beamButton"
+        style="@style/fabbb"
+        android:layout_width="56dp"
+        android:layout_height="55dp"
+        android:clickable="true"
+        app:fabSize="mini"
+        app:srcCompat="@drawable/ic_nfc" />
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/shareButton"
+        style="@style/fab"
+        android:layout_width="62dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.07"
+        android:clickable="true"
+        android:src="@drawable/ic_content_add"
+        app:fabSize="mini" />
+
+  </android.support.design.widget.CoordinatorLayout>
+
+  <View
+      android:id="@+id/home_transition_overlay"
+      android:layout_width="wrap_content"
+      android:layout_height="match_parent"
+      android:background="@color/secondary"
+      android:visibility="gone"/>
+
+</FrameLayout>

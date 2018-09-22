@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "272895417005",
+    "project_id": "card-case-80212"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272895417005:android:8f7b72bd68ce6bb0",
+        "android_client_info": {
+          "package_name": "io.bloco.cardcase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJTcpW08GIKAUupWNOFIYpUhCpAoke9yg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-91392533-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

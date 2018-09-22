@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\logo.png",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_nfc.png",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_nfc.png"
+    }
+]

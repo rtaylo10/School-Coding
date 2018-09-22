@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back_right.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\ic_back_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chevron_right.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\0feafb74d7c2469a3146f7f5cb48c491a22d9f5e\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_avatar.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\ic_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\0feafb74d7c2469a3146f7f5cb48c491a22d9f5e\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_placeholder.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\avatar_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\0feafb74d7c2469a3146f7f5cb48c491a22d9f5e\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\0feafb74d7c2469a3146f7f5cb48c491a22d9f5e\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_done.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\ic_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\0feafb74d7c2469a3146f7f5cb48c491a22d9f5e\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\0feafb74d7c2469a3146f7f5cb48c491a22d9f5e\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\0feafb74d7c2469a3146f7f5cb48c491a22d9f5e\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_edit.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\avatar_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\0feafb74d7c2469a3146f7f5cb48c491a22d9f5e\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_background.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\list_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\2996ba192fdb308cdb813078f9dd5fe733d9c650\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\2996ba192fdb308cdb813078f9dd5fe733d9c650\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back_left.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\ic_back_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_edit.xml",
+        "source": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ryan\\.android\\build-cache\\bce56edfe41f0c8e3436aca833c5b56d96073fad\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    }
+]

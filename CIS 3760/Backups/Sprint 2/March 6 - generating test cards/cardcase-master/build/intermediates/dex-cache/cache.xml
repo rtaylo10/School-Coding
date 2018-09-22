@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\1747794247458dd71f1746a0bc84b36ef283b56a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_30b6094fa3e68f92e1b43e0c136bd624a5c8593a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\b9f9c4668ebbbacd869717f8472b2f3cb194823e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_70ec720482c61003cddb1fa3e6bafa4ae5041760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\4f0c37f52b31188ba7e7663da86bdb83014809bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7780b9aba418f4e22878f48cd77372a7688bb0b7">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_ca88cfde4e172818ec089755904ec15071bdb509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\5afcc63c1ae4291cd9114336fd09ca0a5d9acb9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_52f90c3e1b4ec4c3973ddfcd94c29e0d179b6455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\javax.annotation\jsr250-api\1.0\5025422767732a1ab45d93abfea846513d742dcf\jsr250-api-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5025422767732a1ab45d93abfea846513d742dcf">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\jsr250-api-1.0_49789cb6ff8bb4e96f32e3be6839c1600256f02b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\com.github.blocoio\faker\1.2.3\88441399d87e23ffea85fe7afec08cad10a47bfa\faker-1.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="88441399d87e23ffea85fe7afec08cad10a47bfa">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\faker-1.2.3_18ae3361a77a5e472daa8b204f4457817ef1f0d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\d1127e5bcbe420b1b45b59708b7a5b5df7600a35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_5fcf8a63aff0c82cb29bdb4a62babf01fb047520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\b7036d2bcc586eb35810b457b991a2a3998d292e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_0cd1886c560bd53b5b1a4e02596259cb3a44323b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_2a588e64764cda96853b21e25df0161e0d842d16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\gson-2.6.2_c23dd0dc0c2b1fe5593ad145758eca07e5acc2b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.1\c261495d1e01df849cdb3cbc941564018f0d3539\joda-time-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c261495d1e01df849cdb3cbc941564018f0d3539">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\joda-time-2.9.1_1ca32c173c5da624b34138b66a59e7623c10766f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\980f574836b47a22b44966ea7d9fba147f346232\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_bbc9032606939cca5b65503349cd5cf0b236c7ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\fecd0f7e30e64799722b1310ac6ec29530fe4375\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_767139cc1960ed37c38fedfb21a2615226bf4730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\9f665d31bd09ee9acdc99cbd38c324ca47edaba5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef01b734d9d89338a932928c237c7b741f007af">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_fe958b013c3e1f2c30e49ef8b22528166c4ca3fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_adfffec2098596ba8b8b98bef24fb03a75faf020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\7d2596c2937ddfc502349fe6fcc1dcbb445196b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ce6b81120bc7aca2f7b76b36161874e29ff663a4">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_5a11ffa3351a2cbfe275eb968e2f331aa66ae2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\4df1c7b178ead650d4e1460133e0b195714fbe29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4803488041c259d0b6d81ca4255379ab8a7e8dfe">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_17f831457832ac4c6d3c786b9f2d25f68626b679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\161f282cfe1c98a8f3e2d82d6e8fbe743ec243a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_0ecf0298f75ecd2efaa84d7323f0efe02a6d5415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\16ae9ddb184f8d582bdb7d8af7c4d9cc6e3170e8\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_7cb8d4754b6abc84f0137713e16aa34213f8940b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\4271e3a5ddb605a9e789396a184bf44145ef45db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_5d657075b81e0525acccde4a3b842cca2b1c3b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\98592f8cf462b68fe22727faf421f031f320d1c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_719d9e46bc540d09671f6bf851646ddc690794a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0.2\de8416eda7b2fd7c25836b140c39e1cbf10542f6\dagger-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\dagger-2.0.2_977fb309d713477f2b12ce208acb5b11d95f4122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\com.github.bmoliveira\snake-yaml\v1.18-android\b32e2afc73ed8ea4eb83000a3addf14c5399474b\snake-yaml-v1.18-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b32e2afc73ed8ea4eb83000a3addf14c5399474b">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\snake-yaml-v1.18-android_50ce249be4f4b056f9e30960831eccbdc0455dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\71b071b306f1c341da68b467df9f86fb43b21947\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cfa40983f47c1b9a9f2ac940ee6da130cd03c6e1">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_98661e7314883193ca6a93e12cf8e5ba3eebcf44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\8779f8953178db12cc316c6ad051043afba95e8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_c07cafe6b112439da660cd58d2cc90cc0013e77c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\8bc95178d20c30a00fb9e43c7a60e2ffc2f78884\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a76b07a416089228adc86fecc86d0a6e2d71e409">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_a195eeab454fcc70f26e853f70bbcfdec5196eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\javax.inject-1_a087f55c1e1f5411537c3dd9b40a8b39e674de5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\16ae9ddb184f8d582bdb7d8af7c4d9cc6e3170e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_3c290d5ff1e5245ab266d4548bb6ec5f30eb3b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_f3369c60bec355507614e88855679e3bfe1a60d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48_d7b9d8c196b6457bf4f9d65a3db32f99646a56f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\86618dfb80b421fb85ff037791bb589c76b0db5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_1a3bf9757ed6d925cbc501c75c790420a1298da4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\6beb11c1e09a7057f89025d9cc4fb5bd80f9e3ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f45a0143e9c43a459f3f331a6b3e7daf13981ef4">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_c0ddf8b4024de12fd8314d10c9c4a1d018c11558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.android\build-cache\b72f36cdea3abd247a7e7b67ca99625faa997346\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\classes_43749aaf0f9a71fc067df344c876c03ec06e51a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="C:\Users\Ryan\Documents\School\CIS 3760\project-s1g5\cardcase-master\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48_4de7a9365b9e27d6cc0e95f1c327cfdb0403d07a.jar" />
+    </item>
+
+</items>

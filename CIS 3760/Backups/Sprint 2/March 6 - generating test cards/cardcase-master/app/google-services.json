@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "73659494811",
+    "firebase_url": "https://cis-3760-a1.firebaseio.com",
+    "project_id": "cis-3760-a1",
+    "storage_bucket": "cis-3760-a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73659494811:android:8f7b72bd68ce6bb0",
+        "android_client_info": {
+          "package_name": "io.bloco.cardcase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73659494811-6oee5p0is0i5kmuctrsgtce05s3d68uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrmtsLP33qAcUzM5xpsA6o3ZdmGXvikao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

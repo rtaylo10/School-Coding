@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Button
+        android:text="@string/decrement"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/decrement"
+        android:layout_marginBottom="41dp"
+        android:layout_alignBottom="@+id/generate"
+        android:layout_alignStart="@+id/generate" />
+
+    <Button
+        android:text="@string/increment"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/increment"
+        android:layout_alignTop="@+id/decrement"
+        android:layout_alignEnd="@+id/generate"
+        android:layout_alignBottom="@+id/decrement" />
+
+    <EditText
+        android:layout_width="30dp"
+        android:layout_height="40dp"
+        android:inputType="number"
+        android:ems="10"
+        android:gravity="center"
+        android:id="@+id/numtestcards"
+        android:text="0"
+        android:layout_alignBaseline="@+id/decrement"
+        android:layout_alignBottom="@+id/decrement"
+        android:layout_toStartOf="@+id/increment" />
+
+    <TextView
+        android:text="Generate Test Cards"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:id="@+id/textView3"
+        android:layout_marginEnd="29dp"
+        android:layout_alignTop="@+id/numtestcards"
+        android:layout_toStartOf="@+id/decrement"
+        android:layout_alignBottom="@+id/decrement" />
+
+    <ImageButton
+        android:id="@+id/toolbar_dev_close"
+        android:contentDescription="@string/close"
+        android:src="@drawable/ic_back_left"
+        style="@style/toolbar_icon"
+        android:layout_marginStart="8dp"
+        android:layout_alignTop="@+id/textView"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Generate"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/generate"
+        android:layout_weight="0.02"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="80dp"
+        android:layout_below="@+id/test_mode"
+        android:layout_alignParentEnd="true" />
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/test_mode"
+        android:layout_alignBaseline="@+id/textView2"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_alignEnd="@+id/increment" />
+
+    <TextView
+        android:text="Test Mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAllCaps="true"
+
+        android:textStyle="bold"
+        android:id="@+id/textView2"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignStart="@+id/textView3" />
+
+    <TextView
+        android:text="Developer Options"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:gravity="center"
+        android:textAllCaps="true"
+        android:textColor="@color/text_alt"
+        android:textStyle="bold"
+        android:id="@+id/textView"
+        android:layout_weight="0.05"
+        android:layout_marginTop="23dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

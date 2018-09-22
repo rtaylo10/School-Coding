@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Ryan\\.android\\build-cache\\7b876797729d56a5608dfb4c8b5dadece7fa9397\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 45,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 111,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\Ryan\\Documents\\School\\CIS 3760\\project-s1g5\\cardcase-master\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 111,
+                        "endOffset": 267
+                    }
+                }
+            }
+        ]
+    }
+]
